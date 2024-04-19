@@ -17,6 +17,12 @@ Aplicação Java proposta como Checkpoint 2 do primeiro semestre da matéria de 
 git clone https://github.com/viniciosromano/fiap-checkpoint2.git
 ```
 
+### Docker Hub
+
+```
+https://hub.docker.com/repository/docker/viniciosromano/fiap-checkpoint2/tags
+```
+
 ## Como executar
 
 #### Usando Docker
